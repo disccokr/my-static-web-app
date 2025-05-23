@@ -9,7 +9,7 @@ const NavBar = (props) => (
         Products
       </NavLink>
       <NavLink to="/about" activeClassName="active-link">
-        About
+        About-----
       </NavLink>
     </ul>
     {props.children}
